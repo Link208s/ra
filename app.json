@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "cj",
-            "value": "https://raw.githubusercontent.com/findyoulike/lear/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/Link208s/ra/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "cj",
-            "value": "https://raw.githubusercontent.com/findyoulike/lear/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/Link208s/ra/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "cj",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "cj",
-            "value": "https://raw.githubusercontent.com/findyoulike/lear/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/Link208s/ra/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/findyoulike/lear",
-    "repository": "https://github.com/findyoulike/lear",
+    "website": "https://github.com/Link208s/ra",
+    "repository": "https://github.com/Link208s/ra",
     "stack": "container"
 }
